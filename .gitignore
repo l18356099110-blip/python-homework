@@ -1,0 +1,15 @@
+# 忽略环境密钥（最重要！）
+.env
+
+# 忽略虚拟环境
+venv/
+env/
+
+# 忽略日志
+*.log
+
+# Python 缓存
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
